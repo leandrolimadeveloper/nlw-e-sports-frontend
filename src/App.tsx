@@ -35,7 +35,7 @@ function App() {
       <img src={logoImg} alt='Logo'></img>
 
 
-      <h1 className='text-6xl text-white font-black mt-20'>
+      <h1 className='text-6xl text-white font-black mt-20 text-[22px] sm:text-[36px] md:text-[50px]'>
         Seu <span className='text-transparent bg-nlw-gradient bg-clip-text'>duo</span> está aqui
       </h1>
 
